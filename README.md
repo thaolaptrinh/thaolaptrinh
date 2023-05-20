@@ -25,6 +25,6 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaolaptrinh&show_icons=true&theme=gruvbox)
+![Thao's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaolaptrinh&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
