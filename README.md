@@ -1,7 +1,5 @@
-# 🏄‍♂️ Nguyen Van Thao
-
 **`Developer`**
-
+My name is Nguyen Van Thao.
 I'm an indie full-stack developer.
 
 ### 🧰 Languages and Tools
