@@ -1,6 +1,6 @@
 **`Developer`**
 
-<p style="text-align:center;">My name is Nguyen Van Thao. I'm an indie full-stack developer.</p>
+<p style="text-align:center">My name is Nguyen Van Thao. I'm an indie full-stack developer.</p>
 
 ### 🧰 Languages and Tools
 
