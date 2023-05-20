@@ -40,7 +40,7 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 ### 🌟 Github Stats
 
-<div align="center">
+<div align="center" style="display:flex;">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=thaolaptrinh&theme=gruvbox&border_radius=4.5)
 
