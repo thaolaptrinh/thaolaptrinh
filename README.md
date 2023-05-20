@@ -50,7 +50,7 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 #
 
-### 📊 Stats
+### 📊 Github Stats
 
 <div align="center">
 
