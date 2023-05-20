@@ -4,7 +4,7 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 ### 🧰 Languages and Tools
 
-- [![Laravel][laravel.com]][laravel-url]
+![alt text][laravel.com]
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
