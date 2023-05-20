@@ -4,6 +4,8 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 ### 🧰 Languages and Tools
 
+- [![Laravel][laravel.com]][laravel-url]
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -28,4 +30,6 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
+[laravel.com]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg
+[laravel-url]: https://laravel.com
 [website]: https://view1s.com
