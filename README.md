@@ -1,9 +1,13 @@
-<style type="text/css">
+`
+
+  <style type="text/css">
     .icon{
         width: 200px;
         padding-right:10px;
     }
 </style>
+
+`
 
 **`Developer`**
 
@@ -22,7 +26,7 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
-![IMAGE ALT TEXT HERE](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg "sfa") { width=50% }
+![IMAGE ALT TEXT HERE](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg "sfa") {.icon }
 
 <br />
 
