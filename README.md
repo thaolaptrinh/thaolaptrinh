@@ -4,6 +4,10 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 ### 📚 Languages and Tools
 
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=F7DF1E" alt="PHP logo" title="PHP" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F7DF1E" alt="Laravel logo" title="Laravel" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
