@@ -42,10 +42,10 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thaolaptrinh&theme=github-green-purple&border_radius=4.5&card_width=300)
+![GitHub Streak](https://streak-stats.demolab.com?user=thaolaptrinh&theme=github-green-purple&border_radius=4.5)
 
 
 
-![Thao's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaolaptrinh&show_icons=true&theme=merko&card_width=300)
+![Thao's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaolaptrinh&show_icons=true&theme=merko)
 
 </div>
