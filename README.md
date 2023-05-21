@@ -3,8 +3,8 @@
 My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 ### 📚 Languages and Tools
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">Link</a>
 
+<a href="https://example.com">Link</a>
 
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb3" alt="PHP logo" title="PHP" height="25" /></a>
 &nbsp;
