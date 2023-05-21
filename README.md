@@ -46,6 +46,6 @@ My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 
 
-![Thao's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaolaptrinh&show_icons=true&theme=merko&border=none)
+![Thao's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaolaptrinh&show_icons=true&theme=vue-dark&border=0)
 
 </div>
