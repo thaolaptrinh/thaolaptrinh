@@ -3,11 +3,10 @@
 My name is Nguyen Van Thao. I'm an indie full-stack developer.
 
 ### 📚 Languages and Tools
-[adjustable](http://google.com "Giiidd"){:target="_blank"}
 
-<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb3" alt="PHP logo" title="PHP" height="25" /></a>
+<a href="https://www.php.net/" target="blank"><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb3" alt="PHP logo" title="PHP" height="25" /></a>
 &nbsp;
-<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FE2D1F" alt="Laravel logo" title="Laravel" height="25" /></a>
+<a href="https://www.php.net/" target="blank"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FE2D1F" alt="Laravel logo" title="Laravel" height="25" /></a>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
