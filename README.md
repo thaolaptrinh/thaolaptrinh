@@ -9,3 +9,8 @@
 <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=3178C6&color=282C34&style=flat&logoWidth=30" /></a>
 
 > Full-stack Developer from Vietnam · Building web apps with Vue/Nuxt & Laravel
+
+## Latest Articles
+
+<!-- ARTICLES-LIST:START -->
+<!-- ARTICLES-LIST:END -->
