@@ -16,5 +16,4 @@
 <!-- ARTICLES-LIST:START -->
 - [Laravel Migration Subfolders](https://thaolaptrinh.com/articles/laravel-migration-subfolder) — 22/03/2026
 - [PHP Enums in FilamentPHP: HasLabel, HasColor, HasIcon](https://thaolaptrinh.com/articles/php-enum-filamentphp) — 21/03/2026
-- [PHP 8.4: The Features That Actually Matter](https://thaolaptrinh.com/articles/php-84-new-features) — 20/03/2025
 <!-- ARTICLES-LIST:END -->
