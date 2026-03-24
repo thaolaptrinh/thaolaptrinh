@@ -9,7 +9,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=F7DF1E&color=282C34&style=flat&logoWidth=30" /></a>
 <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=3178C6&color=282C34&style=flat&logoWidth=30" /></a>
 
-> Full-stack Developer from Vietnam · Building web apps with Vue/Nuxt & Laravel
+> Full Stack Web Developer from Vietnam · Building web apps with Vue/Nuxt, Laravel & Filament
 
 ## Latest Articles
 
