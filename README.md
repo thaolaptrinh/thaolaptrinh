@@ -14,6 +14,7 @@
 ## Latest Articles
 
 <!-- ARTICLES-LIST:START -->
+- [Laravel Action Pattern](https://thaolaptrinh.com/articles/laravel-action-pattern) — 04/07/2026
 - [Laravel Migration Subfolders](https://thaolaptrinh.com/articles/laravel-migration-subfolder) — 22/03/2026
 - [PHP Enums in FilamentPHP: HasLabel, HasColor, HasIcon](https://thaolaptrinh.com/articles/php-enum-filamentphp) — 21/03/2026
 <!-- ARTICLES-LIST:END -->
